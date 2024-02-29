@@ -4,7 +4,7 @@
 <h1 align="center">Hi, my name's Spartak👋🏽</h1>
 <h3 align="center">A passionate Full-Stack developer from Ukraine🇺🇦</h3>
 
-<img align="right" alt="GIF" width="390" height="450" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47477qf5j878g6ajtatfhs3b73ure3nesayuleggvc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="GIF" width="345" height="290" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47477qf5j878g6ajtatfhs3b73ure3nesayuleggvc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 👨‍💻 Go ahead and check my pined projects here 😉
 
