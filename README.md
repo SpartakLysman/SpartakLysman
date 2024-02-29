@@ -1,4 +1,6 @@
-![giff](https://media4.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" alt="Your GIF" width="600" height="600">
+</p>
 <h1 align="center">Hi 👋, my name's Spartak</h1>
 <h3 align="center">A passionate Full-Stack developer from Ukraine, but currently in Warsaw🇵🇱</h3>
 
