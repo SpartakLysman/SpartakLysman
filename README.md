@@ -2,7 +2,7 @@
   <img src="https://ltecnologia.com.br/blog/wp-content/uploads/2015/02/helloworld.png" alt="Your GIF" width="1000" height="290">
 </p>
 <h1 align="center">Hi, my name's Spartak👋🏽</h1>
-<h3 align="center">A passionate Full-Stack developer from Ukraine, currently in Warsaw🇵🇱</h3>
+<h3 align="center">A passionate Full-Stack developer from Ukraine🇺🇦</h3>
 
 <img align="right" alt="GIF" width="300" height="314" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47477qf5j878g6ajtatfhs3b73ure3nesayuleggvc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
