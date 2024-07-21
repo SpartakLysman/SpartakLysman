@@ -56,20 +56,15 @@
 <br>
 
 <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="rest" width="60" height="40"/> </a> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="45" height="40"/> </a> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="css" width="32" height="40"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="55" height="55"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="css" width="40" height="55"/> </a> 
 
   <br>
   
- <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="junit" width="40" height="40"/>
+ <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="junit" width="50" height="50"/> 
+ <img src="https://javadoc.io/static/org.mockito/mockito-core/3.6.0/org/mockito/logo.png" alt="mockito" width="85" height="50"/> 
+
  
- 
- 
-
-
-
-
-
  
   <br>
    
