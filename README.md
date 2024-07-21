@@ -9,7 +9,8 @@
 - 👨‍💻 Go ahead and check my pined projects here 😉
 
 - 📄 Check all my skills and experiences on my CV👇<br>
- [CV📝](https://eu.docworkspace.com/d/cIJ_Mrrf2AfrDva8G?utm_source=wps_office_mac&utm_medium=comp_border_bar&utm_content=link)
+ [CV📝](https://github.com/user-attachments/files/16324709/Spartak_Lysman_Resume_fix.pdf)
+
 
 - 🔗 Open to collaborate 🛠️
 
