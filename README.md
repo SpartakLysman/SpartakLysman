@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ltecnologia.com.br/blog/wp-content/uploads/2015/02/helloworld.png" alt="Your GIF" width="1000" height="290">
+  <img src="https://ltecnologia.com.br/blog/wp-content/uploads/2015/02/helloworld.png" alt="Your GIF" width="1000" height="260">
 </p>
 <h1 align="center">Hi, my name's Spartak👋🏽</h1>
 <h3 align="center">A passionate Full-Stack developer from Ukraine🇺🇦</h3>
