@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4d7a7bce-3936-4be8-b3e0-dea1d5131011" alt="Black Simple Motivational Quote LinkedIn Banner" width="1000" height="260">
+<img src="https://github.com/user-attachments/assets/4d7a7bce-3936-4be8-b3e0-dea1d5131011" alt="Black Simple Motivational Quote LinkedIn Banner" width="1000" height="230">
 
   
 </p>
