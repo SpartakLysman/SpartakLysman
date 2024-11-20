@@ -11,7 +11,7 @@
 - 👨‍💻 Go ahead and check my pined projects here 😉
 
 - 📄 Check all my skills and experiences on my CV👇<br>
- [CV📝](https://github.com/user-attachments/files/16324709/Spartak_Lysman_Resume_fix.pdf)
+[CV📝](https://github.com/user-attachments/files/17830531/Spartak_Lysman_CV__.pdf)
 
 
 - 🔗 Open to collaborate 🛠️
