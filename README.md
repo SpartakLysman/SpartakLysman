@@ -19,6 +19,7 @@
 - 📫 How to reach me?👇 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="telegram" width ="18" height="1%">  **spartaklysman@gmail.com** <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="telegram" width ="18" height="1%"> *@Spartak_Lysman*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="telegram" width ="18" height="1%"> *@Spartak_Lysman*
 
   <br>
 
