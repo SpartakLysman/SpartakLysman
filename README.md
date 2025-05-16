@@ -8,9 +8,9 @@
 
 <img align="right" alt="GIF" width="345" height="290" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47477qf5j878g6ajtatfhs3b73ure3nesayuleggvc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-- 👨‍💻 Go ahead and check my pined projects here 
-
 - 🔗 Open to collaborate 🛠️
+  
+- 👨‍💻 Go ahead and check my pined projects here 
 
 - 📫 Have any questions or feedback? Reach me at 👇 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="telegram" width ="18" height="1%">  **spartaklysman@gmail.com** <br>
