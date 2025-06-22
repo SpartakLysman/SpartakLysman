@@ -3,7 +3,7 @@
 
 
 </p>
-<h1 align="center">Hi, my name's Spartak👋🏽</h1>
+<h1 align="center">Hi, there 👋🏽</h1>
 <h3 align="center">Java Developer | Software Developer | Backend Developer | Full- Stack</h3>
 
 
