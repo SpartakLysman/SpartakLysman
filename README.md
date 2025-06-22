@@ -1,12 +1,11 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4d7a7bce-3936-4be8-b3e0-dea1d5131011" alt="Black Simple Motivational Quote LinkedIn Banner" width="1000" height="230">
+<img src="https://github.com/user-attachments/assets/725e4ed5-6ccc-49be-8d6b-4a0521a0226d" alt="Black Simple Motivational Quote LinkedIn Banner" width="1000" height="190">
 
-  
+
 </p>
 <h1 align="center">Hi, my name's Spartak👋🏽</h1>
 <h3 align="center">Java Developer | Software Developer | Backend Developer | Full- Stack</h3>
 
-<img align="right" alt="GIF" width="345" height="290" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47477qf5j878g6ajtatfhs3b73ure3nesayuleggvc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 🔗 Open to collaborate 🛠️
   
